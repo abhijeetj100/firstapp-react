@@ -1,6 +1,6 @@
 function Heading(){
-  let title="This is some heading text";
-  return (
-    <h1>title</h1>
-  );
+	let title='This is some heading text';
+	return (
+		<h1>title</h1>
+	);
 }
