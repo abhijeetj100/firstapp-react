@@ -1,6 +1,6 @@
 import React from 'react';
 function Heading(){
-	let title='This is some heading text';
+	let title='This is some heading text.';
 	return (
 		<h1>title</h1>
 	);
