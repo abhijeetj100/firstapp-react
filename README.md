@@ -3,7 +3,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Uses codefactor.io for code-analysis: [CodeFactor.io](https://www.codefactor.io/dashboard)
+- Uses codefactor.io for code-analysis: [CodeFactor.io](https://www.codefactor.io/dashboard)
+0 Uses Vercel for deployments: [Vercel](https://vercel.com/abhijeetj100)
 
 ## Available Scripts
 
