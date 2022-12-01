@@ -3,6 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Uses codefactor.io for code-analysis: [CodeFactor.io](https://www.codefactor.io/dashboard)
+[![CodeFactor](https://www.codefactor.io/repository/github/abhijeetj100/firstapp-react/badge)](https://www.codefactor.io/repository/github/abhijeetj100/firstapp-react)
 
 ## Available Scripts
 
